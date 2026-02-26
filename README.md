@@ -2,6 +2,9 @@
 
 Terminal fractal explorer using Unicode braille characters for sub-pixel rendering. Each terminal cell encodes an 8-dot (2x4) braille pattern, giving 8x the effective resolution of regular character-based renderers.
 
+![fractals](https://github.com/user-attachments/assets/d0b98092-f030-46eb-8808-931389e7eea4)
+
+
 ## Features
 
 - **Braille sub-pixel rendering** — 2x4 dot matrix per cell for high-resolution output in any terminal
